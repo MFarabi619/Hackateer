@@ -4,7 +4,7 @@ Hackateer is a unique tool designed to simplify the process of brainstorming ide
 
 [Hacks for Hackers MLH page](https://organize.mlh.io/participants/events/9847-hacks-for-hackers?_gl=1*1idnld*_ga*ODIwOTA2MzM5LjE2ODg2MjU4ODU.*_ga_E5KT6TC4TK*MTY4OTk1NzU4Ni44LjEuMTY4OTk1ODQ0Ny41MS4wLjA.)<br>
 [Hacks for Hackers Devpost](https://hacks-for-hackers.devpost.com/) 
-
+[Hackateer Live Demo](https://hackateer.vercel.app/)
 [Hackateer Devpost](https://devpost.com/software/hackateer)
 
 ## Table of Contents
