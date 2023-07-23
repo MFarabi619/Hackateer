@@ -6,7 +6,6 @@ Hackateer is a unique tool designed to simplify the process of brainstorming ide
 [Hacks for Hackers Devpost](https://hacks-for-hackers.devpost.com/) 
 
 [Hackateer Live Demo](https://hackateer.vercel.app/)
-
 [Hackateer Devpost](https://devpost.com/software/hackateer)
 
 ## Table of Contents
